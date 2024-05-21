@@ -12,8 +12,8 @@
 */
 
 :root {
-    --sys-font-family: "ZiWangBang", "Monaco", serif;
-    --zh-font-family: "ZiWangBang", "Monaco", serif;
+    --sys-font-family: "Monaco", serif;
+    --zh-font-family: "Monaco", serif;
     --base-font-family: "Monaco", var(--sys-font-family), var(--zh-font-family), sans-serif;
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", var(--zh-font-family), monospace
 }

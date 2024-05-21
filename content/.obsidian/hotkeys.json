@@ -1,7 +1,6 @@
 {
   "editor:save-file": [],
   "app:open-help": [],
-  "editor:insert-link": [],
   "app:open-settings": [],
   "app:go-back": [],
   "workspace:close-window": [],
@@ -83,12 +82,46 @@
   ],
   "Enhanced editing:biaoti0-text": [],
   "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "table-editor-obsidian:insert-row": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-editor-shortcuts:selectLine": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-comments": [],
   "editor:toggle-blockquote": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "."
+      "key": "/"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
     }
   ],
   "editor:insert-callout": [
@@ -98,5 +131,31 @@
       ],
       "key": ","
     }
-  ]
+  ],
+  "Enhanced editing:text-Color4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-editor-shortcuts:joinLines": []
 }

@@ -5,5 +5,8 @@
   "dbfolder",
   "dataview",
   "drawio-obsidian",
-  "metadata-menu"
+  "metadata-menu",
+  "ledger-obsidian",
+  "table-editor-obsidian",
+  "templater-obsidian"
 ]

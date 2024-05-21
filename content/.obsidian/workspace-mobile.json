@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4e18b896f37e5892",
+        "id": "85e1d7389546cc0a",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1dc9a733fa76c9",
+            "id": "02df4c68671f9921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-知识库/日语/方位表示.md",
+                "file": "C-记录生活/100-重要/2024-信息奥数授课/2024-夏季授课.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d07db98db17e599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-记录生活/010-日记/总结/目标和任务.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fe61176fbbc55f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-记录生活/010-日记/日记/2024-04-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,12 +107,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A-知识库/日语/方位表示.md"
+            "file": "C-记录生活/100-重要/2024-信息奥数授课/2024-夏季授课.md"
           }
         }
       },
       {
-        "id": "11f5f922bb526558",
+        "id": "1c6a64c784af434f",
         "type": "leaf",
         "state": {
           "type": "advanced-tables-toolbar",
@@ -98,61 +124,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "templates:插入模板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "dbfolder:创建一个新数据库表": false
+      "ledger-obsidian:Add to Ledger": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1dc9a733fa76c9",
+  "active": "02df4c68671f9921",
   "lastOpenFiles": [
-    "B-工具/windows软件/raylink.md",
-    "A-知识库/日语/方位表示.md",
-    "A-知识库/日语/简单词汇.md",
-    "C-记录生活/日记/日记/2023-11-21.md",
-    "F-项目实战/大模型+KG项目/大模型研究/华为云比赛.md",
-    "C-记录生活/电影/电影推荐.md",
-    "C-记录生活/asset/@EOTSD{Y4$64KQTSI2~]Y2K.png",
-    "A-知识库/计算机科学与技术/云原生/生态.md",
-    "C-记录生活/日记/日记/2024-01-13.md",
-    "C-记录生活/电影",
-    "C-记录生活/未命名.md",
-    "C-记录生活/书籍/书籍推荐.md",
-    "C-记录生活/信奥培训/24-01-06复习.md",
-    "C-记录生活/书籍",
-    "A-知识库/计算机科学与技术/设计模式/创建型模式/生成器模式（建造者模式）.md",
-    "A-知识库/计算机科学与技术/设计模式/创建型模式/抽象工厂模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/桥接模式.md",
-    "C-记录生活/信奥培训",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/组合模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/装饰模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/享元模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/外观模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/适配器模式.md",
-    "A-知识库/计算机科学与技术/设计模式/结构型模式/代理模式.md",
-    "A-知识库/计算机科学与技术/设计模式/行为模式/迭代器模式.md",
-    "A-知识库/计算机科学与技术/设计模式/行为模式/访问者模式.md",
-    "A-知识库/计算机科学与技术/设计模式/行为模式/解释器模式.md",
-    "A-知识库/计算机科学与技术/设计模式/行为模式/命令模式.md",
-    "A-知识库/计算机科学与技术/设计模式/行为模式/策略模式.md",
-    "A-知识库/计算机科学与技术/设计模式/课程.md",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103175431.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103134921.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103134900.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103164644.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103175403.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103164108.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103134423.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103175458.png",
-    "A-知识库/数学/随机过程/asset/Pasted image 20240103175417.png",
-    "F-项目实战/反诈骗/反诈骗汇报12-25.pptx",
-    "E-文献阅读/对话反诈骗/asset/8226FACB511757D845E8982866E6E65D.pdf",
-    "E-文献阅读/对话反诈骗/asset",
-    "E-文献阅读/对话反诈骗",
-    "F-项目实战/反诈骗/日程",
-    "F-项目实战/未命名",
-    "A-知识库/计算机科学与技术/LLM/知识图谱/llama-index"
+    "A-知识库/100-其他课程/网络信息安全/防火墙.md",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/rust基础入门.md",
+    "E-文献阅读/大模型/Education-LLM/Can Large Language Models Provide Feedback to  Students A Case Study on ChatGPT.md",
+    "E-文献阅读/大模型/Education-LLM/Atlas Few-shot Learning with  Retrieval Augmented Language Models.md",
+    "C-记录生活/999-Her/24-05-15.md",
+    "A-知识库/001-计算机科学与技术/操作系统/Windows个性化/Powershell.md",
+    "E-文献阅读/对话反诈骗/asset/Pasted image 20240517094229.png",
+    "E-文献阅读/大模型/Education-LLM/A Comprehensive Overview of Large Language Models.md",
+    "E-文献阅读/对话反诈骗/Automatic Classification of Semantic Content of Classroom Dialogue.md",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/rust高级进阶.md",
+    "F-项目实战/研究生汇报/24-05-17.md",
+    "F-项目实战/研究生汇报",
+    "E-文献阅读/大模型/Education-LLM/asset/Pasted image 20240517015304.png",
+    "E-文献阅读/大模型/Education-LLM/asset/Pasted image 20240517014123.png",
+    "E-文献阅读/大模型/Education-LLM/asset",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/泛型和特征/特征.md",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/泛型和特征",
+    "E-文献阅读/对话反诈骗/24-05-14总结.md",
+    "A-知识库/001-计算机科学与技术/程序语言/Golang/第三方API/DockerAPI.md",
+    "A-知识库/001-计算机科学与技术/程序语言/Golang/第三方API",
+    "A-知识库/001-计算机科学与技术/操作系统/Linux/iptables.md",
+    "F-项目实战/实验室云服务器/大数据实验平台/nginx配置文件.md",
+    "F-项目实战/实验室云服务器/40服务器上的服务.md",
+    "A-知识库/001-计算机科学与技术/云原生/docker/portainer.md",
+    "A-知识库/001-计算机科学与技术/监控/监控.md",
+    "A-知识库/001-计算机科学与技术/监控",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/包和模块/包和模块.md",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/包和模块",
+    "F-项目实战/实验室云服务器/大数据实验平台/HealthCheck.md",
+    "C-记录生活/100-重要/2024-信息奥数授课/2024-夏季授课.md",
+    "A-知识库/100-其他课程/软件过程/作业-24-05-13.md",
+    "B-工具/windows软件/Powerpoint模板.md",
+    "A-知识库/100-其他课程/软件过程/asset/4ab8ee9172d2dbb84c550682e418944.jpg",
+    "A-知识库/100-其他课程/软件过程/asset/b4265a43d302233e4978e8bac4d3892.jpg",
+    "A-知识库/100-其他课程/软件过程/asset/Pasted image 20240513183513.png",
+    "A-知识库/100-其他课程/软件过程/asset/Pasted image 20240513183512.png",
+    "A-知识库/100-其他课程/软件过程/asset/7275226ebd124fabb3c8d128b2dfb86.jpg",
+    "A-知识库/100-其他课程/软件过程/asset/Pasted image 20240513183436.png",
+    "A-知识库/100-其他课程/软件过程/asset",
+    "A-知识库/100-其他课程/网络信息安全/asset/Pasted image 20240513100715.png",
+    "A-知识库/100-其他课程/网络信息安全/asset",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/返回值和错误处理/错误处理.md",
+    "A-知识库/001-计算机科学与技术/程序语言/rust/返回值和错误处理",
+    "C-记录生活/005-游戏/Minecraft.md",
+    "C-记录生活/005-游戏/Galgame.md",
+    "A-知识库/001-计算机科学与技术/深度学习/transformers"
   ]
 }

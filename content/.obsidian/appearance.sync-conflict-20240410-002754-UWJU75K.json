@@ -1,0 +1,13 @@
+{
+  "accentColor": "#a727b0",
+  "cssTheme": "Obsidian gruvbox",
+  "monospaceFontFamily": "Monaco",
+  "textFontFamily": "Monaco,宋体",
+  "interfaceFontFamily": "Monaco",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "color"
+  ],
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
+}

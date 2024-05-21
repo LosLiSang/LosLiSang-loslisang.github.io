@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6680380b2167e4",
+        "id": "c6e282402352b493",
         "type": "tabs",
         "children": [
           {
-            "id": "255f0b4abc7812f5",
+            "id": "64a4a48a0d2b25db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/life/23年信息奥数教学总结.md",
+                "file": "template/写作模板.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 258.5
   },
   "right": {
     "id": "136c9bf211c36a56",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/life/23年信息奥数教学总结.md"
+                "file": "template/写作模板.md"
               }
             }
           },
@@ -86,32 +86,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "ledger-obsidian:Add to Ledger": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:打开命令面板": false,
       "daily-notes:打开/创建今天的日记": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
-      "dbfolder:创建一个新数据库表": false
+      "dbfolder:创建一个新数据库表": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "255f0b4abc7812f5",
+  "active": "64a4a48a0d2b25db",
   "lastOpenFiles": [
-    "post/life/23年信息奥数教学总结.assets/102238754_p0.png",
-    "post/life/23年信息奥数教学总结.md",
-    "post/life/static/img/102238754_p0.png",
-    "post/life/102238754_p0.png",
-    "post/clash在Linux中如何使用.md",
+    "post/C-部署小应用/Pikpak.md",
     "template/写作模板.md",
-    "post/git分布式管理工具.md",
-    "page/search/index.md",
-    "page/links/index.md",
+    "post/B-生活/Summary/2023 Summary.md",
+    "post/C-部署小应用",
+    "post/A-计算机/Program Language/Rust",
+    "post/A-计算机/Program Language/Go",
+    "post/A-计算机/Program Language",
+    "post/B-生活/Summary/23年信息奥数教学总结.md",
+    "post/B-生活/static/img/102238754_p0.png",
+    "post/B-生活/Summary/asset/102238754_p0.png",
+    "post/A-计算机/CLI/Git/git分布式管理工具.md",
+    "post/A-计算机/CLI/Git",
+    "post/A-计算机/CLI",
+    "post/A-计算机/LeetCode",
+    "post/A-计算机/LeetCode/LeetCode 82. 删除排序链表中的重复元素 II.md",
+    "post/A-计算机/CLI/Git/clash在Linux中如何使用.md",
+    "post/B-生活/Summary/asset/image-20240112233753269.png",
+    "post/A-计算机/asset",
+    "post/B-生活/Summary/asset",
+    "post/summary/asset.md",
+    "post/B-生活/Summary/asset/cover.jpg",
+    "post/A-计算机/LeetCode/LeetCode 143. 重排链表.md",
+    "post/A-计算机/asset/Pasted image 20240115180529 1.png",
+    "template/未命名.md",
     "page/archives/index.md",
+    "page/links/index.md",
+    "page/search/index.md",
+    "page/links",
+    "post/life/23年信息奥数教学总结.assets/102238754_p0.png",
     "archetypes/default.md",
     "categories/example-category/_index.md",
-    "post/summary/index.md",
-    "post/life/23年信息奥数教学总结.assets",
-    "post/summary/cover.jpg",
-    "post/life/asset",
     "B-工具/windows软件/raylink.md",
     "A-知识库/计算机科学与技术/云原生/生态.md",
     "A-知识库/计算机科学与技术/云原生/kubernetes.md",
@@ -119,28 +138,13 @@
     "C-记录生活/电影/电影推荐.md",
     "A-知识库/日语/方位表示.md",
     "C-记录生活/日记/日记/2024-01-13.md",
-    "C-记录生活/电影",
     "A-知识库/日语/简单词汇.md",
-    "A-知识库/计算机科学与技术/云原生/kubernetes",
     "C-记录生活/信奥培训/2024-01-13考试.md",
     "B-工具/linux-cli软件/clash-linux/clash在Linux中如何使用.md",
-    "C-记录生活/书籍/书籍推荐.md",
-    "B-工具/windows软件/电脑投屏到平板.md",
-    "B-工具/windows软件/drawio.md",
-    "A-知识库/日语/日期的描述.md",
-    "A-知识库/日语/助词使用.md",
     "A-知识库/计算机科学与技术/设计模式/创建型模式/asset/Pasted image 20240112103420.png",
     "A-知识库/计算机科学与技术/设计模式/创建型模式/asset/Pasted image 20240112103415.png",
-    "C-记录生活/书籍",
     "F-项目实战/小应用/asset/Pasted image 20231206151636.png",
     "B-工具/website/asset/Pasted image 20240110235932.png",
-    "B-工具/website/asset",
-    "F-项目实战/小应用/asset/Pasted image 20231206151743.png",
-    "B-工具/plugin插件",
-    "B-工具/windows软件",
-    "B-工具/website",
-    "A-知识库/硬件",
-    "A-知识库/计算机科学与技术/设计模式/创建型模式/asset/Pasted image 20240105164804.png",
     "C-记录生活/日记/日记/未命名.canvas",
     "C-记录生活/日记/日记/未命名 1.canvas",
     "C-记录生活/日记/日记/未命名 2.canvas",

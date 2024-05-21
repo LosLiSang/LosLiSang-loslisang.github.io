@@ -25,5 +25,6 @@
   "rightToLeft": false,
   "readableLineLength": false,
   "attachmentFolderPath": "./asset",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useTab": false
 }
