@@ -1,3 +1,21 @@
+@font-face {
+    font-family: "Monaco";
+    src: url("/fonts/Monaco.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ZiWangBang";
+    src: url("/fonts/字帮玩酷体.ttf") format("truetype");
+}
 /*
     You can add your own custom styles here.
 */
+
+:root {
+    --sys-font-family: "ZiWangBang", "Monaco", serif;
+    --zh-font-family: "ZiWangBang", "Monaco", serif;
+    --base-font-family: "Monaco", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --code-font-family: Menlo, Monaco, Consolas, "Courier New", var(--zh-font-family), monospace
+}
+
+
