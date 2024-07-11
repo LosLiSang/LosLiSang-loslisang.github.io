@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/写作模板.md",
+                "file": "post/A-计算机/CLI/Git/git分布式管理工具.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 415.5
   },
   "right": {
     "id": "136c9bf211c36a56",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/写作模板.md"
+                "file": "post/A-计算机/CLI/Git/git分布式管理工具.md"
               }
             }
           },
@@ -98,29 +98,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64a4a48a0d2b25db",
+  "active": "62509f11ef1fd93c",
   "lastOpenFiles": [
     "post/C-部署小应用/Pikpak.md",
-    "template/写作模板.md",
     "post/B-生活/Summary/2023 Summary.md",
+    "post/B-生活/Summary/102238754_p0.png",
+    "post/B-生活/Summary/23年信息奥数教学总结.md",
+    "post/B-生活/Summary/cover.jpg",
+    "post/B-生活/Summary/image-20240112233753269.png",
+    "template/写作模板.md",
     "post/C-部署小应用",
     "post/A-计算机/Program Language/Rust",
     "post/A-计算机/Program Language/Go",
     "post/A-计算机/Program Language",
-    "post/B-生活/Summary/23年信息奥数教学总结.md",
     "post/B-生活/static/img/102238754_p0.png",
-    "post/B-生活/Summary/asset/102238754_p0.png",
     "post/A-计算机/CLI/Git/git分布式管理工具.md",
     "post/A-计算机/CLI/Git",
     "post/A-计算机/CLI",
     "post/A-计算机/LeetCode",
     "post/A-计算机/LeetCode/LeetCode 82. 删除排序链表中的重复元素 II.md",
     "post/A-计算机/CLI/Git/clash在Linux中如何使用.md",
-    "post/B-生活/Summary/asset/image-20240112233753269.png",
     "post/A-计算机/asset",
     "post/B-生活/Summary/asset",
     "post/summary/asset.md",
-    "post/B-生活/Summary/asset/cover.jpg",
     "post/A-计算机/LeetCode/LeetCode 143. 重排链表.md",
     "post/A-计算机/asset/Pasted image 20240115180529 1.png",
     "template/未命名.md",
