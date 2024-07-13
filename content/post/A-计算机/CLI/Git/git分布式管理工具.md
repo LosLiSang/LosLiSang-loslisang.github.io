@@ -9,11 +9,13 @@ categories:
 ---
 ## 创建一个git仓库
 
-git init
-git add (.)  提交到暂存区
-git commit -m <> 
+`git init`
 
-git log <--stat>
+`git add (.)` 提交到暂存区
+
+`git commit -m <>`
+
+`git log <--stat>`
 
 `git diff <commit-id>`
 
@@ -21,13 +23,14 @@ git log <--stat>
 
 `git checkout <commit-id>`
 
-git branch
+`git branch`
 
-git checkout -b develop
+`git checkout -b develop`
 
-$master git merge develop
+`$master git merge develop`
 
 ## git config
+
 ### 修改某些属性
 
 `git config --global <properity> <value>`
@@ -45,20 +48,21 @@ git config --global http.sslBackend schannel
 ```
 
 ### 查看属性
+
 `git config --list --show-origin`
 
 ## git clone
-### 携带参数
-eg:
-git -c http.sslVerify=false clone `<URL>`
 
+### 携带参数
+
+eg:
+`git -c http.sslVerify=false clone <URL>`
 
 ## 本地仓库和远程仓库绑定(远程分支)
 
-git remote remove origin
+`git remote remove origin`
 
-git remote add origin "https://github.com/LosLiSang/loslisang.github.io.git"
-
+`git remote add origin "https://github.com/LosLiSang/loslisang.github.io.git"`
 
 ## 参考
 

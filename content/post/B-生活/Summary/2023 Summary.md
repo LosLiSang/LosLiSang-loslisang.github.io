@@ -44,4 +44,4 @@ weight: 1
 
 24年，少打一点游戏，如果不行就用VB脚本好好惩罚自己，毕竟VB确实很难关掉。
 
-![](https://raw.githubusercontent.com/LosLiSang/picgo/main/roxy.png?token=AMSNNO2YIGE4Y2VFVFQSLE3GSAAT2)
+![roxy](https://raw.githubusercontent.com/LosLiSang/picgo/main/roxy.png?token=AMSNNO2YIGE4Y2VFVFQSLE3GSAAT2)
