@@ -15,3 +15,12 @@ url = "https://github.com/LosLisang"
 [social.params]
 icon = "brand-github"
 
+[[social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/26972987"
+
+[social.params]
+icon = "bilibili-svgrepo-com"
+
+
