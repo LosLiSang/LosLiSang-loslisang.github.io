@@ -5,7 +5,6 @@ date: 2024-01-12 00:00:00+0000
 image: https://raw.githubusercontent.com/LosLiSang/picgo/main/cover.jpg?token=AMSNNO45S6QX7MCZGVZPMXTGSAAUE
 categories:
   - 生活
-weight: 1
 ---
 
 ## 总结
